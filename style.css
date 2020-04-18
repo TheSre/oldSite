@@ -1,0 +1,157 @@
+@font-face 
+{
+  font-family: "CutiveMono";
+  src: url(CutiveMono-Regular.ttf);
+}
+
+body 
+{
+  color: lightgrey;
+	font-family: "CutiveMono", Courier New;
+  background-color: #2e2e2e;
+  font-size: 120%;
+}
+
+table, th, td 
+{
+	border:1px solid cyan;
+}
+
+.middleDiv
+{
+  width: 50%;
+  display: table;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.middleDivLeft
+{
+  width: 40%;
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.innerMiddleDiv
+{
+  display: inline-block;
+  text-align: left;
+  font-weight: bold;
+}
+
+.thoughtsDiv
+{
+  font-weight: bold;
+}
+
+#rightSpan
+{
+	padding-top: 12px;
+	margin-bottom: 40px;
+	padding-left: 235px;
+	display: inline-block;
+	text-align: center;
+}
+
+#innerRightSpan 
+{
+  position:relative;
+}
+
+#leftSpan 
+{
+	float:left;
+	width: 500px;
+	word-break: break-word;
+	white-space: normal;
+	display: inline-block;
+	margin-bottom: 40px;
+}
+
+a:link 
+{
+	color: pink;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited 
+{
+	color: pink;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color: pink;
+	background-color: grey;
+	text-decoration: none;
+}
+
+h1 
+{
+  font-size: 190%;
+	padding: 1px;
+	margin: 1px;
+}
+
+h2 
+{
+	padding: 1px;
+	margin: 1px;
+}
+
+h3 
+{
+	padding: 1px;
+	margin: 1px;
+}
+
+h4
+{
+	padding: 1px;
+	margin: 1px;
+}
+
+h5
+{
+	padding: 1px;
+	margin: 1px;
+}
+
+p 
+{
+	padding: 1px;
+	margin: 1px;
+}
+
+footer
+{
+	position: fixed;
+	bottom: 0;
+	height: 70px;
+	margin-top: 40px;	
+	left: 50%;
+  font-weight: bold;
+  text-align: center;
+}
+
+.footerDiv
+{
+	position:relative;
+	left: -50%;
+}
+
+.homeLink
+{
+  font-size: 110%;
+  font-weight: bold;
+}
+
+.noteMarker
+{
+	font-size: larger;
+}

@@ -1,13 +1,7 @@
-@font-face 
-{
-  font-family: "CutiveMono";
-  src: url(CutiveMono-Regular.ttf);
-}
-
 body 
 {
   color: lightgrey;
-	font-family: "CutiveMono", Courier New;
+	font-family: Courier New;
   background-color: #2e2e2e;
   font-size: 120%;
 }
@@ -19,11 +13,10 @@ table, th, td
 
 .middleDiv
 {
-  width: 50%;
+  width: 45%;
   display: table;
   margin: 0 auto;
   text-align: center;
-  font-weight: bold;
 }
 
 .middleDivLeft
@@ -38,12 +31,10 @@ table, th, td
 {
   display: inline-block;
   text-align: left;
-  font-weight: bold;
 }
 
 .thoughtsDiv
 {
-  font-weight: bold;
 }
 
 #rightSpan
@@ -135,7 +126,6 @@ footer
 	height: 70px;
 	margin-top: 40px;	
 	left: 50%;
-  font-weight: bold;
   text-align: center;
 }
 
@@ -148,7 +138,6 @@ footer
 .homeLink
 {
   font-size: 110%;
-  font-weight: bold;
 }
 
 .noteMarker

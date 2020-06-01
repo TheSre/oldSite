@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href="icon.png" rel="icon">
+	<title>Food</title>
+	</head>
+	<body>
+    <div class="middleDiv">
+		<h2>
+    Food!
+		<!--image sizes: width: 500 -->
+		</h2>	
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20190912_075941.jpg" alt="Minnesota peanut butter toast">
+    <br>
+		Minnesota peanut butter toast
+		</p>
+    <br>
+    <br>
+		<p>
+		<img src="foodImgs/20200118_200440.jpg" alt="quinoa salad">
+    <br>
+    quinoa, edamame, chickpea, and bean salad with <br>
+    mustard-based dressing and sunflower seeds
+		</p>
+    <br>
+    <br>
+		<p>
+		<img src="foodImgs/20200201_095631.jpg" alt="overnight oats">
+    <br>
+    overnight oats with fruit and peanuts
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20200206_085800.jpg" alt="avocado toast">
+    <br>
+    avocado toast with seeds (chia & sunflower), hot sauce, and pepper <br>
+    (lemon juice is great on this too!)
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20200207_202537.jpg" alt="curry lentil stew">
+    <br>
+    curry lentil stew with beans and roasted veggies
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20200309_171845.jpg" alt="sweet potato and veggie soup">
+    <br>
+    sweet potato & roasted veggie soup
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20200519_192244.jpg" alt="tofu, cauliflower, eggplant stir fry">
+    <br>
+    stir fry with tofu, cauliflower, eggplant, and beet greens
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20200528_193434.jpg" alt="lettuce wraps">
+    <br>
+    lettuce wraps with soy chorizo, peas, red pepper, and onion
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/veggiesAlmondsHarissaMustard.jpg" alt="roasted veggies">
+    <br>
+    roasted veggies with almonds and a harissa-mustard sauce
+		</p>
+		<br>
+		<br>
+		<p>
+		<img src="foodImgs/20190923_121354.jpg" alt="a nice lunch spot">
+    <br>
+    a nice lunch spot
+		</p>
+		<br>
+
+		<hr>
+    <a class="homeLink" href="main.html">Home</a>
+    </div>
+	</body>
+</html>

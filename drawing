@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href="icon.png" rel="icon">
+	<title>Drawings</title>
+	</head>
+	<body>
+    <div class="middleDiv">
+		<h2>
+    Some of My Drawings
+		<!--image sizes: width: 600 -->
+		</h2>	
+    *Disclaimer: I'm an absolute novice*
+		<br>
+		<br>
+		<br>
+		<br>
+
+		<p>
+		<img src="drawingImgs/20200417_230038.jpg" alt="my first tree">
+		</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+		<p>
+		<img src="drawingImgs/20200427_225637.jpg" alt="my second tree">
+		</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+		<p>
+		<img src="drawingImgs/20200601_213312.jpg" alt="tree in landscape">
+		</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+		<p>
+		<img src="drawingImgs/20200601_212945.jpg" alt="a leaning forest">
+		</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+		<p>
+		<img src="drawingImgs/20200529_205827.jpg" alt="untitled drawing">
+		</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+		<hr>
+    <a class="homeLink" href="main">Home</a>
+    </div>
+	</body>
+</html>

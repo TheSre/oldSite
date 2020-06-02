@@ -11,12 +11,12 @@
       <h4>*Take these with as many grains of salt as you'd like*</h4>
       </p>	
       <br>
-      <p><a href="turningTheCorner.html"><u>"Turning the Corner"</u></a></p>
+      <p><a href="turningTheCorner"><u>"Turning the Corner"</u></a></p>
     </div>
 		<footer>
 			<div class="footerDiv">
         <br>
-        <a href="../main.html">Home</a>
+        <a href="../main">Home</a>
 			</div>
 		</footer>
 	</body>

@@ -17,8 +17,7 @@
 
       <p>
       <u><b class= thought>2019-01-09 Wed 00:24</b></u> <br>
-      <a href="http://www.brckhmptn.com">
-      <i>iridescence</i></a> by BROCKHAMPTON is fantastic.
+      <i>iridescence</i> by BROCKHAMPTON is fantastic.
       </p>
       <br>
       <p>
@@ -110,7 +109,7 @@
     </div>
     <div class="middleDiv">
       <hr>
-			<a class="homeLink" href="main.html">Home</a>
+			<a class="homeLink" href="main">Home</a>
     </div>
   </body>
 </html>

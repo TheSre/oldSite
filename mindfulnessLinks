@@ -81,19 +81,26 @@
                 </a>
                 <br>
                 <br>
-                <li><a
-                href="https://www.youtube.com/playlist?list=PL1zgN5stPHdfJCZcjACP4LQ1PjKqR8S4G">
-                Joseph Goldstein - In-depth talks on the Satipatthana Sutta</a>
-                    <ol type="a">
-                    <li>The audio in the first video is a bit bad, but it's
-                    mostly better from there on out. 
-                    </ol>
+                <li><a href=
+                "https://www.youtube.com/watch?v=CT4fFjY5CKk">
+                Dilgo Khyentse Rinpoche - Dzogchen Practice in Everyday Life
+                </a>
+                  <ol type="a">
+                    <li> It seems that at least parts of this may have actually
+                    been authored by Chogyam Trungpa, not Dilgo Khyentse. Some
+                    excerpts from it can be seen in 
+                    <a href="https://static1.squarespace.com/static/53e0268de4b0f2394fee5f54/t/54fedc1ce4b0c449f738b31e/1425988636070/The+Way+of+Maha+Ati+from+The+Collected+Work+of+Chogyam+Trungpa+Volume+1.pdf">
+                    a collection of Trungpa's
+                    works.
+                    </a>
+                  </ol>
+                <br>
                 </ol>
             </div>
                 <br>
                 <hr>
             <div class="middleDiv">
-                <a class="homeLink" href="main.html">Home</a>
+                <a class="homeLink" href="main">Home</a>
             </div>
         </div>
 	</body>

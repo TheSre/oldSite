@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href="icon.png" rel="icon">
+	<title>Black Lives Matter</title>
+	</head>
+	<body>
+    <div class="middleDiv">
+		<h2>
+    Black Lives Matter
+		</h2>	
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <h3>
+    "...playing the blues is like having to be Black twice" - B.B. King
+    </h3>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/u9Wf8y_5Yn4" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/sb9_qGOa9Go" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/dO2kwzJ_Zg4" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/OCUlE5ldPvM" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/sctENM_d77g" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+
+		<hr>
+        <a class="homeLink" href="main">Home</a>
+    </div>
+	</body>
+</html>

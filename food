@@ -95,6 +95,15 @@
 		<br>
 		<br>
 		<p>
+    <img src="foodImgs/peanutButterSpicyLimeTofuMushroomsButternut.jpg"
+    alt="tofu, mushrooms, and butternut squash in a spicy peanut-butter-lime
+    sauce">
+    <br>
+    tofu, mushrooms, and butternut squash in a spicy peanut-butter-lime sauce
+		</p>
+		<br>
+		<br>
+		<p>
 		<img src="foodImgs/20190923_121354.jpg" alt="a nice lunch spot">
     <br>
     a nice lunch spot
@@ -102,7 +111,7 @@
 		<br>
 
 		<hr>
-    <a class="homeLink" href="main">Home</a>
+    <a class="homeLink" href="./">Home</a>
     </div>
 	</body>
 </html>

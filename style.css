@@ -6,14 +6,9 @@ body
   font-size: 120%;
 }
 
-table, th, td 
-{
-	border:1px solid cyan;
-}
-
 .middleDiv
 {
-  width: 45%;
+  width: 75%;
   display: table;
   margin: 0 auto;
   text-align: center;
@@ -31,34 +26,6 @@ table, th, td
 {
   display: inline-block;
   text-align: left;
-}
-
-.thoughtsDiv
-{
-}
-
-#rightSpan
-{
-	padding-top: 12px;
-	margin-bottom: 40px;
-	padding-left: 235px;
-	display: inline-block;
-	text-align: center;
-}
-
-#innerRightSpan 
-{
-  position:relative;
-}
-
-#leftSpan 
-{
-	float:left;
-	width: 500px;
-	word-break: break-word;
-	white-space: normal;
-	display: inline-block;
-	margin-bottom: 40px;
 }
 
 a:link 

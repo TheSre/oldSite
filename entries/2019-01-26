@@ -1,75 +1,77 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link href="../style.css" link rel="stylesheet" type="text/css">
-		<link href="../icon.png" link rel="icon">
-		<title>Jan. 26, 2019</title>
-	</head>
-	<body>
-        <div class="middleDiv">
-                <h2><u>Jan. 26, 2019: Our Dynamism and Unruliness</u></h2>
-                <br>
-                <p>
-                    <a
-                    href="https://www.youtube.com/watch?v=r4QiRP9p7vs">
-                    "Night and Day" - Everything But The Girl
-                    </a>
-                </p>	
-			<br>
-			<!--image dimensions: 450x600 -->
-			<img src="pictures/2019-1-26.jpg" alt="pictures/2019-1-26.jpg">
-            <br>
-            <br>
-            <br>
-            <div class="innerMiddleDiv">
-                <p>&emsp;&emsp;
-                It's bizarre how at odds your "external self"<span
-                class="noteMarker">*</span> can be with your "internal
-                self." I often have the experience that I say or do things that feel
-                incongruous with how I truly feel or would like to act. Sometimes, this
-                is a result of emotion: I might act more hastily than I'd like because
-                of impatience. But the more strange case is when strong feelings play no
-                such role. I might be having a great conversation with close friends,
-                feel completely at ease, and still act in a way that I dislike. If I
-                don't want to act in that way, why do I so blatantly?	
-                </p>
-                <p>&emsp;&emsp;
-                Just as puzzling, changes in one's immediate environment can produce great swings
-                in behavior. In some situations, I feel quite confident, at ease,
-                social, and quick to crack a joke. In others, I feel like a lifelong
-                hermit who, having reached old age, has decided to crawl out of his hole
-                and make his first attempt at human interaction. And this pattern of
-                polarity is repeated for just about every other trait. 
-                </p>
-                <p>&emsp;&emsp;
-                As if we were watching another person, our actions appear to unravel
-                before us. It's almost as if our behavior is the automatic output of a 
-                reaction that consists of factors like setting, the people around us, our 
-                current mood, our general behavioral tendencies, and so on. Rather than us 
-                authoring our actions and thoughts, it often feels that this reaction occurs 
-                and we see simply see its result appear. Ultimately, I think this dynamic 
-                illustrates a fundamental quality of our minds and behavior and I might dive 
-                into this in another entry at some point. 
-                </p>
-                <p>&emsp;&emsp;
-                With this said, I think we have good reason to try to be gentler with
-                others and ourselves. The person we might get angry with for being
-                inconsiderate may later be truly upset with herself for acting this way.
-                And though you said something that you dislike, you should not feel
-                chained to this flawed, older self. Our continuous vacillation means that
-                no one is constant and everyone is corrigible.  
-                </p>
-            </div>
-                <br>
-                <hr>
-                    <p><i>
-                    <span class="noteMarker">*</span>I don't claim that these are actually two distinct 
-                    things. Rather, I
-                    think the appearance that they are further reflects the self's dynamism
-                    and complexity.
-                    </i></p>
-                <hr>
-                <a class="homeLink" href="../">Home</a>
-        </div>
-	</body>
+  <head>
+    <link href="../style.css" link rel="stylesheet" type="text/css">
+    <link href="../icon.png" link rel="icon">
+    <title>Jan. 26, 2019</title>
+    <meta name="viewport" content="width=device-width, initial-scale=.85,
+    maximum-scale=.85">
+  </head>
+  <body>
+    <div class="middleDiv">
+      <h2><u>Jan. 26, 2019: Our Dynamism and Unruliness</u></h2>
+      <br>
+      <p>
+        <a
+          href="https://www.youtube.com/watch?v=r4QiRP9p7vs">
+          "Night and Day" - Everything But The Girl
+        </a>
+      </p>	
+      <br>
+      <!--image dimensions: 450x600 -->
+      <img src="pictures/2019-1-26.jpg" alt="pictures/2019-1-26.jpg">
+      <br>
+      <br>
+      <br>
+      <div class="innerMiddleDiv">
+        <p>&emsp;&emsp;
+          It's bizarre how at odds your "external self"<span
+                                                         class="noteMarker">*</span> can be with your "internal
+                                                       self." I often have the experience that I say or do things that feel
+                                                       incongruous with how I truly feel or would like to act. Sometimes, this
+                                                       is a result of emotion: I might act more hastily than I'd like because
+                                                       of impatience. But the more strange case is when strong feelings play no
+                                                       such role. I might be having a great conversation with close friends,
+                                                       feel completely at ease, and still act in a way that I dislike. If I
+                                                       don't want to act in that way, why do I so blatantly?	
+        </p>
+        <p>&emsp;&emsp;
+          Just as puzzling, changes in one's immediate environment can produce great swings
+          in behavior. In some situations, I feel quite confident, at ease,
+          social, and quick to crack a joke. In others, I feel like a lifelong
+          hermit who, having reached old age, has decided to crawl out of his hole
+          and make his first attempt at human interaction. And this pattern of
+          polarity is repeated for just about every other trait. 
+        </p>
+        <p>&emsp;&emsp;
+          As if we were watching another person, our actions appear to unravel
+          before us. It's almost as if our behavior is the automatic output of a 
+          reaction that consists of factors like setting, the people around us, our 
+          current mood, our general behavioral tendencies, and so on. Rather than us 
+          authoring our actions and thoughts, it often feels that this reaction occurs 
+          and we see simply see its result appear. Ultimately, I think this dynamic 
+          illustrates a fundamental quality of our minds and behavior and I might dive 
+          into this in another entry at some point. 
+        </p>
+        <p>&emsp;&emsp;
+          With this said, I think we have good reason to try to be gentler with
+          others and ourselves. The person we might get angry with for being
+          inconsiderate may later be truly upset with herself for acting this way.
+          And though you said something that you dislike, you should not feel
+          chained to this flawed, older self. Our continuous vacillation means that
+          no one is constant and everyone is corrigible.  
+        </p>
+      </div>
+      <br>
+      <hr>
+      <p><i>
+          <span class="noteMarker">*</span>I don't claim that these are actually two distinct 
+          things. Rather, I
+          think the appearance that they are further reflects the self's dynamism
+          and complexity.
+        </i></p>
+        <hr>
+        <a class="homeLink" href="../">Home</a>
+    </div>
+  </body>
 </html>

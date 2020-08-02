@@ -4,6 +4,8 @@
 	<link href="style.css" rel="stylesheet" type="text/css">
 	<link href="icon.png" rel="icon">
 	<title>Food</title>
+   <meta name="viewport" content="width=device-width, initial-scale=.8,
+     maximum-scale=1">
 	</head>
 	<body>
     <div class="middleDiv">
@@ -96,10 +98,10 @@
 		<br>
 		<p>
     <img src="foodImgs/peanutButterSpicyLimeTofuMushroomsButternut.jpg"
-    alt="tofu, mushrooms, and butternut squash in a spicy peanut-butter-lime
+    alt="tofu, mushrooms, and butternut squash in a spicy, peanut-butter-lime
     sauce">
     <br>
-    tofu, mushrooms, and butternut squash in a spicy peanut-butter-lime sauce
+    tofu, mushrooms, and butternut squash in a spicy, peanut-butter-lime sauce
 		</p>
 		<br>
 		<br>

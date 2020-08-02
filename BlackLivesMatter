@@ -4,6 +4,8 @@
 	<link href="style.css" rel="stylesheet" type="text/css">
 	<link href="icon.png" rel="icon">
 	<title>Black Lives Matter</title>
+  <meta name="viewport" content="width=device-width, initial-scale=.70,
+  maximum-scale=1">
 	</head>
 	<body>
     <div class="middleDiv">
@@ -76,6 +78,17 @@
     src="https://www.youtube.com/embed/sctENM_d77g" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope;
     picture-in-picture" allowfullscreen></iframe>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+    <h3>
+      <a href="https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html">
+        John Lewis' Final Essay</a>
+    </h3>
 		<br>
 		<br>
 		<br>

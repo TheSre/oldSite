@@ -4,8 +4,7 @@
 	<link href="../style.css" rel="stylesheet" type="text/css">
 	<link href="../icon.png" rel="icon">
 	<title>Turning the Corner</title>
-  <meta name="viewport" content="width=device-width, initial-scale=.95,
-  maximum-scale=.95">
+  <meta name="viewport" content="width=device-width, initial-scale=.95">
 	</head>
 	<body>
     <div class="middleDiv">

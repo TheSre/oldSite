@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<link href="icon.png" rel="icon">
+	<title>Shopper Scoop</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+    <body>
+    <div class="middleDiv">
+      <p>
+      <h4>*Take these with as many grains of salt as you'd like*</h4>
+      </p>	
+      <br>
+      <div class="innerMiddleDivLeft">
+        <ol>
+          <li>
+            <p><a href="https://stallman.org/amazon.html">Amazon</a>
+            </p>
+          </li>
+
+          <li>
+            <a
+              href="http://content.time.com/time/world/article/0,8599,2092004,00.html">
+              Cashews</a>
+            <ol type="a">
+              <li><a
+                href="https://www.hrw.org/report/2011/09/07/rehab-archipelago/forced-labor-and-other-abuses-drug-detention-centers-southern">
+                  Here's</a> the HRW report mentioned in the previous link. 
+              </li>
+              <li>
+                <a 
+                  href="https://soapboxie.com/social-issues/blood-cashews">
+                  This page</a> also has some info about ethical sources of
+                cashews toward the bottom.
+              </li>
+            </ol>
+          </li>
+        </ol>
+      </div>
+    </div>
+	</body>
+  <footer>
+    <div class="footerDiv">
+      <br>
+      <a href="./">Home</a>
+    </div>
+  </footer>
+</html>

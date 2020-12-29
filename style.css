@@ -27,10 +27,21 @@ body
 
 .middleDivLeft
 {
-  width: 50%;
   display: table;
   margin: 0 auto;
   text-align: left;
+}
+
+/* If the screen size is 601px wide or more, set the width to 100% */
+@media screen and (min-width: 801px) {
+  .middleDivLeft {
+		width: 60%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .middleDivLeft {
+		width: 100%;
+  }
 }
 
 .innerMiddleDivLeft

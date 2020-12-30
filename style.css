@@ -1,9 +1,9 @@
 /* styling for collapsible menu */
 .collapMenu {
-	border: 1px solid grey;
+	border: 0px solid grey;
 }
 .collapMenu li {
-	border-bottom: 1px solid grey;
+	border-bottom: 0px solid grey;
 	padding: 10px 5px;
 }
 .collapMenu li:last-child {

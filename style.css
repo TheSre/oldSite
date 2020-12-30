@@ -1,3 +1,27 @@
+.collapHidden {
+	display: none;
+}
+
+:checked ~ .collapHidden {
+	display: inline;
+  margin: 0 auto;
+}
+
+.collapLabel {
+	font-size: 105%;
+	font-weight: bold;
+}
+
+.collapLabel:before {
+	content: "\0002B";
+  transition: all 0.25s;
+	display:inline-block;
+}
+
+:checked ~ .collapLabel:before {
+	transform: rotate(45deg);
+}
+
 body 
 {
   color: lightgrey;
@@ -46,7 +70,7 @@ body
 
 .innerMiddleDivLeft
 {
-  display: table;
+  display: inline-block;
   margin: 0 auto;
   text-align: left;
 }

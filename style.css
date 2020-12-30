@@ -12,7 +12,7 @@
 	transition
 }
 
-.collapMenu ul {
+.collapMenu .collapExpandItem ul {
 	display: none;
 }
 
@@ -20,6 +20,7 @@
 	display: block;
 }
 
+/*
 .collapExpandItem {
 	font-size: 105%;
 	font-weight: bold;
@@ -29,6 +30,7 @@
 	font-size: 105%;
 	font-weight: bold;
 }
+*/
 
 .collapExpandItem label:before {
 	content: "\0002B";

@@ -1,6 +1,19 @@
 /* styling for collapsible menu */
+.collapMenu {
+	border: 1px solid grey;
+}
+.collapMenu li {
+	border-bottom: 1px solid grey;
+	padding: 10px 5px;
+}
+.collapMenu li:last-child {
+	border: 0;
+}
+
 .collapMenu, .collapMenu ul {
 	list-style: none;
+	padding: 0;
+	margin: 0;
 }
 
 .collapMenu input {
@@ -31,6 +44,11 @@
 	font-weight: bold;
 }
 */
+
+.collapExpandLabel {
+	color: pink;
+	background-color: transparent;
+}
 
 .collapExpandItem label:before {
 	content: "\0002B";

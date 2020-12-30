@@ -1,24 +1,42 @@
+/* styling for collapsible menu */
+.collapMenu, .collapMenu ul {
+	list-style: none;
+}
+
+.collapMenu input {
+	display:none;
+}
+
 .collapHidden {
+	display: none;
+	transition
+}
+
+.collapMenu ul {
 	display: none;
 }
 
-:checked ~ .collapHidden {
-	display: inline;
-  margin: 0 auto;
+.collapMenu input:checked ~ ul {
+	display: block;
 }
 
-.collapLabel {
+.collapExpandItem {
 	font-size: 105%;
 	font-weight: bold;
 }
 
-.collapLabel:before {
-	content: "\0002B";
-  transition: all 0.25s;
-	display:inline-block;
+.collapNormalItem {
+	font-size: 105%;
+	font-weight: bold;
 }
 
-:checked ~ .collapLabel:before {
+.collapExpandItem label:before {
+	content: "\0002B";
+  transition: all 0.25s;
+	display: inline-block;
+}
+
+.collapExpandItem input:checked ~ label:before {
 	transform: rotate(45deg);
 }
 

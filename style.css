@@ -1,3 +1,21 @@
+:root {
+	--bgColor: #080808;
+	--txtColor: white;
+}
+
+@font-face {
+	font-family: 'PT Mono';
+	src: url('fonts/PT_Mono/PTMono-Regular.ttf');
+}
+
+body 
+{
+  color: var(--txtColor);
+	font-family: 'PT Mono', monospace; 
+  background-color: var(--bgColor);
+  font-size: 110%;
+}
+
 /* styling for collapsible menu */
 .collapMenu {
 	border: 0px solid grey;
@@ -60,14 +78,6 @@
 	transform: rotate(45deg);
 }
 
-body 
-{
-  color: lightgrey;
-	font-family: monospace;
-  background-color: #2e2e2e;
-  font-size: 120%;
-}
-
 .middleDiv
 {
   display: table;
@@ -78,7 +88,7 @@ body
 /* If the screen size is 601px wide or more, set the width to 100% */
 @media screen and (min-width: 801px) {
   .middleDiv {
-		width: 60%;
+		width: 50%;
   }
 }
 @media screen and (max-width: 800px) {
@@ -97,7 +107,7 @@ body
 /* If the screen size is 601px wide or more, set the width to 100% */
 @media screen and (min-width: 801px) {
   .middleDivLeft {
-		width: 60%;
+		width: 50%;
   }
 }
 @media screen and (max-width: 800px) {
@@ -115,23 +125,23 @@ body
 
 a:link 
 {
-	color: pink;
+	color: #ff1a8c;
 	background-color: transparent;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 a:visited 
 {
-	color: pink;
+	color: #b30059;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:hover 
 {
-	color: pink;
-	background-color: grey;
-	text-decoration: none;
+	color: var(--bgColor);
+	background-color: #ff1a8c;
+	text-decoration: underline;
 }
 
 #imgLink
